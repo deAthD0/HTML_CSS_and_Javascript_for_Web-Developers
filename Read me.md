@@ -6,16 +6,15 @@ This repository contains my solutions to the assignments of the Coursera course
 ## Assignments
 
 ### Module 2
-* [Solution].(https://deathd0.github.io/Coursera_HTML-CSS-Javascript-for-Web-Developers/module2_solution/)
+* [Solution].(https://deathd0.github.io/HTML_CSS_and_Javascript_for_Web-Developers/module2_solution/)
  
 
 ### Module 3
-* [Full Solution (including all the optional parts)].(https://deAthD0.github.io/HTML_CSS_and_Javascript_for_Web-Developers/module3_solution/)
+* [Full Solution (including all the optional parts)].https://deathd0.github.io/HTML_CSS_and_Javascript_for_Web-Developers/module3_solution/)
 
 ### Module 4
-* [Solution].(https://deAthD0.github.io/HTML_CSS_and_Javascript_for_Web-Developers/module4_solution/)
+* [Solution].(https://deathd0.github.io/HTML_CSS_and_Javascript_for_Web-Developers/module4_solution/)
 
 ### Module 5
-* [Solution].(https://deAthD0.github.io/HTML_CSS_and_Javascript_for_Web-Developers/module5_solution/)
-goggle.github.io
+* [Solution].(https://deathd0.github.io/HTML_CSS_and_Javascript_for_Web-Developers/module5_solution/)
 
